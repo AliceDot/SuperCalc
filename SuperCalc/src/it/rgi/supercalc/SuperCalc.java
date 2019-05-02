@@ -30,9 +30,9 @@ public class SuperCalc {
 	}
 	
 	//Metodo per fare la moltiplicazione tra due numeri
-		public int mol(int op1, int op2) {
-			ret=op1*op2;
-			return ret;
-		}
+	public int mol(int op1, int op2) {
+		ret=op1*op2;
+		return ret;
+	}
 
 }
